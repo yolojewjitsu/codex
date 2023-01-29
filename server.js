@@ -57,5 +57,5 @@ app.post("/", async (req, res) => {
 });
 
 app.listen(5000, () =>
-  console.log("AI server started on https://codex-psa5.onrender.com")
+  console.log("AI server started")
 );
