@@ -3,9 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +10,7 @@
     "server": "nodemon server"
   },
   "devDependencies": {
+    "@vercel/node": "^2.8.16",
     "vite": "^4.0.0"
   },
   "dependencies": {
