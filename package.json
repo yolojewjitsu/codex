@@ -10,7 +10,6 @@
     "server": "nodemon server"
   },
   "devDependencies": {
-    "@vercel/node": "^2.8.16",
     "vite": "^4.0.0"
   },
   "dependencies": {
